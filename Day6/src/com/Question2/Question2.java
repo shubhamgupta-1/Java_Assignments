@@ -11,7 +11,7 @@ public class Question2 {
 	public static void main(String[] args) throws FileNotFoundException {
 		Map<String, Integer> m = new HashMap<String, Integer>();
 		try {
-			BufferedReader bufferedReader = new BufferedReader(new FileReader("File.txt"));
+			BufferedReader bufferedReader = new BufferedReader(new FileReader("story.txt"));
 			String line = null;
 
 			while ((line = bufferedReader.readLine()) != null) {
