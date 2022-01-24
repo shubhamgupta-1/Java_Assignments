@@ -1,6 +1,5 @@
 package com.Question7;
 
-import java.io.IOException;
 import java.util.InputMismatchException;
 
 public class Question7 {

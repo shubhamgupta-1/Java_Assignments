@@ -33,6 +33,7 @@ public class BookStore {
 		}
 		if (count < size) {
 			System.out.println("this book is not available. Lets add.");
+			@SuppressWarnings("resource")
 			Scanner sc = new Scanner(System.in);
 			System.out.print("Enter auther name: ");
 			String author = sc.nextLine();

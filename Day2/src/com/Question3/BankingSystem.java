@@ -1,6 +1,6 @@
 package com.Question3;
 
-import java.util.Scanner;
+
 
 //Create the Account class: 
 //1. This will have memberName, accountNumber, and accountBalance instance variables; 
@@ -67,6 +67,7 @@ class SavingsAccount extends Account{
 
 
 class CurrentAccount extends Account{
+	@SuppressWarnings("unused")
 	private int tradeLicenseNumber;
 	public int maxWithdrawLimit=50000;
 	

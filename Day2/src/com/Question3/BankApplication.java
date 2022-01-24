@@ -1,6 +1,5 @@
 package com.Question3;
 
-import com.Question3.*;
 import java.util.Scanner;
 
 //Create the application class “Bank” which will have the main method. 
@@ -21,6 +20,7 @@ import java.util.Scanner;
 
 public class BankApplication {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		

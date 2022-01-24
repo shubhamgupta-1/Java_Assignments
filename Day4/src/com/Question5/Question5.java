@@ -9,6 +9,7 @@ public class Question5 {
 
 	public static void main(String[] args) {
 		int num;
+		@SuppressWarnings("resource")
 		Scanner in = new Scanner(System.in);
 		do {
 			num = 0;

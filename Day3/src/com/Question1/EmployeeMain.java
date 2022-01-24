@@ -3,7 +3,6 @@
 package com.Question1;
 
 import java.util.ArrayList;
-import java.util.Scanner;
 
 public class EmployeeMain {
 public static void main(String[] args) {

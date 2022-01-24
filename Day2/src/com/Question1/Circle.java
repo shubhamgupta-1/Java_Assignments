@@ -2,6 +2,7 @@ package com.Question1;
 
 public class Circle {
 	private double radius;
+	@SuppressWarnings("unused")
 	private String color;
 	public Circle() {
 		radius=1.0;

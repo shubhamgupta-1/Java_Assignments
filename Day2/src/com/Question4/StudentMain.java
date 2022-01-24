@@ -11,6 +11,7 @@ import java.util.Scanner;
 
 public class StudentMain {
 
+	@SuppressWarnings({ "unused", "resource" })
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
